@@ -9,11 +9,9 @@
 
 ## Wild Web Developer Setup
 
-<!--
 You can set up a pre-configured IDE for contribution to Eclipse Wild Web Developer using the following link:
 
-[![Create Eclipse Development Environment for the Eclipse SDK](https://download.eclipse.org/oomph/www/setups/svg/simrel.svg)](https://www.eclipse.org/setups/installer/?url=https://raw.githubusercontent.com/eclipse-simrel/simrel.build/main/SimRelConfiguration.setup&show=true "Click to open Eclipse-Installer Auto Launch or drag onto your running installer's title area")
--->
+[![Create Eclipse Development Environment for the Eclipse SDK](https://download.eclipse.org/oomph/www/setups/svg/Wild_Web_Developer.svg)](https://www.eclipse.org/setups/installer/?url=https://raw.githubusercontent.com/eclipse-wildwebdeveloper/wildwebdeveloper/master/setup/WWDConfiguration.setup&show=true "Click to open Eclipse-Installer Auto Launch or drag onto your running installer's title area")
 
 The following contribution instructions for the Eclipse Platform project are generally applicable for the Wild Web Developer project:
 
