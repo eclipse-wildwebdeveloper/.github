@@ -2,12 +2,21 @@
 
 ---
 
-## Wild Web Developer Main Repository
+## Main Repository
 
 - https://github.com/eclipse-wildwebdeveloper/wildwebdeveloper
 
+---
 
-## Wild Web Developer Setup
+## Update Sites
+
+- [https://download.eclipse.org/wildwebdeveloper/updates/release/latest/](https://download.eclipse.org/wildwebdeveloper/updates/release/latest/).
+- [https://download.eclipse.org/wildwebdeveloper/updates/milestone/latest/](https://download.eclipse.org/wildwebdeveloper/updates/milestone/latest/).
+- [https://download.eclipse.org/wildwebdeveloper/updates/nightly/latest/](https://download.eclipse.org/wildwebdeveloper/updates/nightly/latest/).
+
+---
+
+## Development Environment Setup
 
 You can set up a pre-configured IDE for contribution to Eclipse Wild Web Developer using the following link:
 
@@ -28,16 +37,3 @@ Detailed instructions specific to the Wild Web Developer project are available h
 You will need an Eclipse account, as described in the instrucitons above, in order to view the project's CI instance.
 
 - [https://ci.eclipse.org/wildwebdeveloper](https://ci.eclipse.org/wildwebdeveloper/)
-
-<!--
----
-
-## Links
-
-- [Eclipse IDE Downloads](https://www.eclipse.org/downloads/packages/)
-- [SimRel Release Repositories](https://download.eclipse.org/releases/)
-- [SimRel Staging Repositories](https://download.eclipse.org/staging/)
-- [Eclipse Packaging Project (EPP)](https://github.com/eclipse-packaging/packages/blob/master/README.md)
-- [EPP Release Repositories](https://download.eclipse.org/technology/epp/packages/)
-- [EPP Staging Repository](https://download.eclipse.org/technology/epp/staging/repository/)
--->
