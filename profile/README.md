@@ -10,9 +10,9 @@
 
 ## Update Sites
 
-- [https://download.eclipse.org/wildwebdeveloper/updates/release/latest/](https://download.eclipse.org/wildwebdeveloper/updates/release/latest/).
-- [https://download.eclipse.org/wildwebdeveloper/updates/milestone/latest/](https://download.eclipse.org/wildwebdeveloper/updates/milestone/latest/).
-- [https://download.eclipse.org/wildwebdeveloper/updates/nightly/latest/](https://download.eclipse.org/wildwebdeveloper/updates/nightly/latest/).
+- [https://download.eclipse.org/wildwebdeveloper/updates/release/latest/](https://download.eclipse.org/wildwebdeveloper/updates/release/latest/)
+- [https://download.eclipse.org/wildwebdeveloper/updates/milestone/latest/](https://download.eclipse.org/wildwebdeveloper/updates/milestone/latest/)
+- [https://download.eclipse.org/wildwebdeveloper/updates/nightly/latest/](https://download.eclipse.org/wildwebdeveloper/updates/nightly/latest/)
 
 ---
 
@@ -34,6 +34,6 @@ Detailed instructions specific to the Wild Web Developer project are available h
 
 ## Continuous Integration Builds
 
-You will need an Eclipse account, as described in the instrucitons above, in order to view the project's CI instance.
+You will need an Eclipse account, as described in the instructions above, in order to view the project's CI instance.
 
 - [https://ci.eclipse.org/wildwebdeveloper](https://ci.eclipse.org/wildwebdeveloper/)
