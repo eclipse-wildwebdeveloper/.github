@@ -32,8 +32,23 @@ Detailed instructions specific to the Wild Web Developer project are available h
 
 ---
 
+## Security
+
+See [SECURITY.md](../SECURITY.md)
+
+---
+
 ## Continuous Integration Builds
 
 You will need an Eclipse account, as described in the instructions above, in order to view the project's CI instance.
 
 - [https://ci.eclipse.org/wildwebdeveloper](https://ci.eclipse.org/wildwebdeveloper/)
+
+---
+
+## Code of Conduct
+
+This project is governed by the Eclipse Foundation [Code of Conduct](../CODE_OF_CONDUCT.md).
+By participating, you are expected to uphold this code.
+Please report any unacceptable behavior to [conduct@eclipse-foundation.org](mailto:conduct@eclipse-foundation.org).
+
